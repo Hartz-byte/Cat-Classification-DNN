@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Numpy%20Implementation-orange)
+![Neural Network](https://img.shields.io/badge/Model-Type%3A%20L--Layer%20DNN-blueviolet)
+![Jupyter Notebook](https://img.shields.io/badge/Made%20With-Jupyter%20Notebook-orange.svg)
+
 # Deep Neural Network for Image Classification - Cat vs Non-Cat
 This project implements a deep L-layer neural network from scratch using NumPy to classify images as cats or non-cats. The neural network is trained on a dataset of labeled cat and non-cat images, and achieves high accuracy on the training and test sets.
 
